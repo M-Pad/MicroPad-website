@@ -21,7 +21,7 @@
     </div>
 </div>
 
-<div class="md:grid-cols-2 lg:grid-cols-3 grid m-4">
+<div class="md:grid-cols-2 lg:grid-cols-3 grid place-items-center md:place-items-start m-4">
     <IconCard
         icon="i-ph-smiley"
         iconColor="text-ctp-green"
