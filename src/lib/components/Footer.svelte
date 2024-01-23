@@ -18,7 +18,7 @@
                 class="flex flex-row gap-2 text-3xl bg-ctp-base p-3 rounded-xl h-max w-max ml-auto"
             >
                 <a
-                    href="https://github.com/pyscripter99/MicroPad/discussions"
+                    href="https://github.com/M-Pad/MicroPad/discussions"
                     aria-label="MicroPad Github Discussions"
                 >
                     <div class="i-mdi-github"></div>
